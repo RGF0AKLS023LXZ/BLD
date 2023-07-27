@@ -1,8 +1,6 @@
 {
-
-  ["opzln"] = {
-    LoginUser = "test",
-    LoginPass = "test2"
-  },
-
+  "opzln": {
+    "LoginUser": "test",
+    "LoginPass": "test2"
+  }
 }
