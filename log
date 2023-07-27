@@ -1,6 +1,7 @@
 {
   "opzln": {
     "LoginUser": "test",
-    "LoginPass": "test2"
+    "LoginPass": "test2",
+    "Rank": "Game Creator"
   }
 }
